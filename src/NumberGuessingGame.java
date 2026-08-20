@@ -32,6 +32,7 @@ public class NumberGuessingGame {
             }
 
         } while (guess != secretNumber);
+        System.out.println("This is a test change.");
 
         sc.close();
     }
