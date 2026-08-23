@@ -18,6 +18,7 @@ public class NumberGuessingGame {
 
         do {
             System.out.print("Enter your guess: ");
+            // Read the player's guess
             guess = sc.nextInt();
             attempts++;
 
