@@ -14,6 +14,7 @@ public class NumberGuessingGame {
 
         System.out.println("===== Welcome to My Number Guessing Game =====");        System.out.println("I have selected a number between 1 and 100.");
         System.out.println("Try to guess it!");
+        System.out.println("Choose a difficulty level: Easy, Medium, or Hard.");
 
         do {
             System.out.print("Enter your guess: ");
