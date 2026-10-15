@@ -1,57 +1,38 @@
-# 🎯 Number Guessing Game
+# Number Guessing Game 🎯
 
-A simple console-based Number Guessing Game built with Java. The player tries to guess a randomly generated number with the help of feedback from the program.
+A simple console-based Number Guessing Game built with Java. The player tries to guess a randomly generated number with feedback after each attempt.
 
-## 📌 About the Project
+## Features
 
-This project was created to practice Java fundamentals, logical thinking, and user input handling.
+- Generates a random number
+- Accepts guesses from the player
+- Provides hints to guess higher or lower
+- Tracks the number of attempts (if implemented)
 
-## ✨ Features
+## Technologies Used
 
-- Generates a random number for the player to guess.
-- Accepts guesses from the user.
-- Provides feedback on whether the guess is too high or too low.
-- Continues until the correct number is guessed.
+- Java
+- JDK
+- IntelliJ IDEA
 
-## 🛠️ Technologies Used
+## How to Run
 
-- **Language:** Java
-- **Concepts:** Variables, conditionals, loops, random number generation, and user input.
-
-## ▶️ How to Run
-
-1. Install the Java Development Kit (JDK).
-2. Clone this repository:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/MD-ASIF-09/practice.git
    ```
 
-3. Open the project in IntelliJ IDEA or navigate to the Java source file in your terminal.
-4. Compile the Java file:
+2. Open the project in IntelliJ IDEA.
+3. Locate the Java file containing the `main()` method.
+4. Run the program and follow the console instructions.
 
-   ```bash
-   javac Main.java
-   ```
+## Learning Goals
 
-5. Run the program:
+This project demonstrates Java fundamentals, user input, conditional statements, loops, and random number generation.
 
-   ```bash
-   java Main
-   ```
-
-> **Note:** If your Java file has a different name or is inside a package, adjust the commands accordingly.
-
-## 📚 What I Learned
-
-- Using Java control-flow statements.
-- Reading input from the user.
-- Generating random numbers.
-- Building a simple interactive console application.
-
-## 👨‍💻 Author
+## Author
 
 **Mohamed Asif**
 
 - GitHub: [MD-ASIF-09](https://github.com/MD-ASIF-09)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/mohamed-asif-p-m-8823052aa/)
