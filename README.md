@@ -7,7 +7,6 @@ A simple console-based Number Guessing Game built with Java. The player tries to
 - Generates a random number
 - Accepts guesses from the player
 - Provides hints to guess higher or lower
-- Tracks the number of attempts (if implemented)
 
 ## Technologies Used
 
